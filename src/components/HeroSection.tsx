@@ -1,7 +1,8 @@
 
 const HeroSection = () => {
   return (
-    <>This si Hero Sec</>
+    <>This si Hero Section</>
+    
   )
 }
 
